@@ -25,7 +25,7 @@ class _QuestionIndicatorState extends State<QuestionIndicator> {
                   style: AppTextStyles.body,
                 ),
                 Text(
-                  "de 10",
+                  "de 12",
                   style: AppTextStyles.body,
                 ),
               ],
